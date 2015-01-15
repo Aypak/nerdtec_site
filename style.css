@@ -1,0 +1,31 @@
+html{
+	background-color: transparent;
+}
+body{
+	background: url("images/net.jpg");
+	background-size: cover;
+	color: white;
+}
+#navMenu{
+	background-color: #E8F4FF;
+}
+#footer{
+	padding-top: 6px;
+}
+.footerBar{
+	background-color: #F1F8FF;
+}
+#mainContent{
+	padding-top: 4%;
+	text-align: center;
+}
+#headline{
+	text-align: center;
+}
+#panels{
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+#copyright{
+	padding-top: 5px;
+}
