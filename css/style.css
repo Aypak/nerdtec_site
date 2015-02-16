@@ -1,0 +1,80 @@
+html{
+	background-color:transparent;
+	
+}
+body{
+	
+	background:url("images/7.jpg");
+	background-size: cover;
+}
+#navMenu{
+	background-color: #E8F4FF;
+	
+}
+#nts{
+	font-weight: bold;
+}
+
+#logo{
+	position: relative;
+}
+
+.navLinks{
+	padding-top: 1.8%;
+}
+#footer{
+	padding-top: 6px;
+}
+.footerBar{
+	background-color: #F1F8FF;
+}
+#mainContent{
+	padding-top: 4%;
+	text-align: center;
+}
+#headline{
+	text-align: center;
+}
+.services{
+	text-align: center;
+	padding-bottom: 5%;
+}
+}
+#copyright{
+	padding-top: 5px;
+}
+#imageSlider{
+	padding-top: 3%;
+}
+
+.item,.active,.carousel-inner{
+	height: 100%;
+	width: 100%; 
+}
+.carousel{
+	height: 350px;
+}
+#firstSlide{
+	background: url("images/1.jpg")no-repeat fixed center;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
+#secondSlide{
+	background: url("images/5.png")no-repeat fixed center;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
+#thirdSlide{
+	background: url("images/7.jpg")no-repeat fixed center;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
+.heading{
+	text-align: center;
+}
+#hiddenText{
+	padding-top: 5%;
+}
